@@ -1,4 +1,4 @@
-NDI_Toolbox
+NDI Toolbox
 
 script_ndi.m: compares TKD, L2, FANSI and NDI algorithms for single-orientation QSM reconstruction. 
 rmse metrics are produced using 5-direction COSMOS and 5-direction NDI as ground truth images. 
